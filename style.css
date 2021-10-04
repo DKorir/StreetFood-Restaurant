@@ -1,0 +1,159 @@
+li{
+    display: inline;
+    padding: 80px;
+}
+#light-orange{
+    color: #EAAB1B;
+    font-size: 36px;
+}.street-food{
+    padding-left: 120px;
+    font-size: 28px;
+    padding: 120px;
+}
+.color{
+    background-color:hsla(105, 6%, 87%, 0.514);
+    height: 650px;
+}
+.order-now{
+    border-color: palegreen;
+    background-color: #6CB840;
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+}
+*{
+    font-style: serif;
+}
+.eattogether{
+    font-size: 36px;
+    float: right;
+    text-align: center;
+    padding-right: 350px;
+    margin-top: 100px;
+    color: #252525;
+}
+image3{
+    padding-left: 80px;
+    position: relative;
+}
+#head1{
+    color: orange;
+    font-size: 48px;
+}
+.width{
+    width: 30%;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.align-center{
+    text-align: center;
+}
+#align{
+    text-align: center;
+}
+#float-image{
+    float: left;
+}
+#float-right{
+    float: right;
+    margin-top: 100px;
+}
+.bg{
+    background-color: rgba(224, 255, 255, 0.74);
+    height: 1250px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+section {
+    background-color: #eaf3e4;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+  
+  .food-item {
+    /* add box shadow to look cooler   */
+    background: #fff;
+    padding: 20px 20px 30px;
+    border-bottom-right-radius: 50px;
+    width: 300px;
+    margin: 0 30px 40px;
+  }
+  
+  .food-name {
+    margin: 0;
+  }
+  
+  .description {
+    text-align: center;
+    font-size: 19px;
+    line-height: 30px;
+    color: #252525;
+    margin: 0;
+    padding-top: 20px;
+    margin-left: 70px;
+  }
+  
+  .image {
+    margin-left: -90px;
+    margin-top: 30px;
+    position: absolute;
+  }
+  .direction{
+      display: flex;
+  }
+.special-combo{
+    float: right;
+    font-size: 14px;
+    text-align: center;
+}
+.display{
+    display: flex;
+}
+.burger-bg{
+    height: 600px;
+}
+.hotdeals-bg{
+    background-color: #C9ECB5;
+    padding: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 600px;
+}
+span{
+    color: #6CB840;
+}
+.hot-deals{
+    text-align: center;
+    font-size: 36px;
+}
+.head{
+    color: green;
+}
+.special-combo{
+    padding: 0;
+    font-size: 18px;
+    padding-right: 350px;
+    font-size: 24px;
+}
+.image1{
+    position: absolute;
+    padding-bottom: 80px;
+}
+.image2{
+    position: relative;
+    margin-top: 200px;
+}
+.contact-us{
+    background-color:#ffd87cbb;
+    text-align: center;
+    height: 600px;
+    font-size: 28px;
+}
+head2{
+    font-size: 36px;
+}
+.footer{
+    background-color: #C9ECB5;
+}
