@@ -7,19 +7,22 @@ li{
     font-size: 36px;
 }.street-food{
     padding-left: 120px;
-    font-size: 28px;
+    font-size: 24px;
     padding: 120px;
 }
 .color{
     background-color:hsla(105, 6%, 87%, 0.514);
-    height: 650px;
+    height: 700px;
 }
 .order-now{
-    border-color: palegreen;
     background-color: #6CB840;
-    padding: 20px;
-    border-radius: 30px;
+    border-style: solid;
+    border-color: #6CB840;
     color: white;
+    font-weight: 800;
+    border-radius: 50px;
+    padding: 20px;
+    
 }
 *{
     font-style: serif;
@@ -199,4 +202,19 @@ color: white;
 font-size: 10px;
 font-weight: 700;
 margin-bottom: 50px;
+}
+#pirriani{
+    float: right;
+    margin-right: 270px;
+    margin-top: -130px;
+    position: relative;
+}
+#pirriani1{
+    float: right;
+    position: relative;
+    margin-right:260px;
+}
+#pirriani5{
+    float: right;
+    margin-right: 30px;
 }
